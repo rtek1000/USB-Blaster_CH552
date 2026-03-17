@@ -228,6 +228,9 @@ jtagconfig
 CH552 board:
 ![img](https://raw.githubusercontent.com/rtek1000/USB-Blaster_CH552/refs/heads/master/IMG/CH552_1.png)
 
+Pins:
+![img](https://raw.githubusercontent.com/rtek1000/USB-Blaster_CH552/refs/heads/master/IMG/CH552_3.png)
+
 Before flash CH552G:
 ![img](https://raw.githubusercontent.com/rtek1000/USB-Blaster_CH552/refs/heads/master/IMG/CH552_5.png)
 
