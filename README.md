@@ -226,4 +226,4 @@ jtagconfig
 
 ---
 
-![img](https://raw.githubusercontent.com/rtek1000/USB-Blaster_CH552/refs/heads/master/CH552G_Quartus_v22.1.png)
+![img](https://raw.githubusercontent.com/rtek1000/USB-Blaster_CH552/refs/heads/master/IMG/CH552G_Quartus_v22.1.png)
