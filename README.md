@@ -225,5 +225,9 @@ jtagconfig
 *The output should list the USB-Blaster and the devices (CPLD/FPGA) detected in the chain.*
 
 ---
+Before flash CH552G:
+![img](https://raw.githubusercontent.com/rtek1000/USB-Blaster_CH552/refs/heads/master/IMG/CH552_5.png)
 
+
+After Flash CH552G:
 ![img](https://raw.githubusercontent.com/rtek1000/USB-Blaster_CH552/refs/heads/master/IMG/CH552G_Quartus_v22.1.png)
