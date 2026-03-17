@@ -226,4 +226,4 @@ jtagconfig
 
 ---
 
-**Would you like me to help you write a brief technical description of why the CH552G needs this emulation for your repository?**
+![img](https://raw.githubusercontent.com/rtek1000/USB-Blaster_CH552/refs/heads/master/CH552G_Quartus_v22.1.png)
